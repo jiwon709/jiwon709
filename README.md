@@ -12,6 +12,8 @@ https://jiwon709.tistory.com/
 https://velog.io/@jiwon709
 
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jiwon709&color=dark)](https://github.com/jiwon709/velog-readme-stats)
+
 
 <!--
 **jiwon709/jiwon709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

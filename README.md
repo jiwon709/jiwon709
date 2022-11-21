@@ -3,7 +3,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwon709&theme=monokai&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwon709&layout=compact)](https://github.com/jiwon709/github-readme-stats)
 
 ## 진행 중
 https://github.com/chanhong-jiwon-project/auto-commit-project
